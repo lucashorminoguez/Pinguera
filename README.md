@@ -1,4 +1,4 @@
-# PINGUERA
+# 🏓 PINGUERA
 
 A simple app built in Arduino IDE for ESP8266 to verify the connection with different hosts.
 - Displays the process on an LCD 16x2 and 7 LEDs.
