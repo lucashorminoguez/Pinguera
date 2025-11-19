@@ -23,11 +23,11 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 // --- config de los dispositivos ---
 const char* hosts[6] = {
   "google.com",   //proveedor
-  "xxxx",
-  "xxxx",
-  "xxxx",
-  "xxxx",
-  "xxxx"  
+  "192.168.251.1",
+  "192.168.252.1",
+  "192.168.0.4",
+  "192.168.0.6",
+  "192.168.0.1"  
 };
 const int NUM_DEVICES = 6;
 bool alertActive = false;
